@@ -1,0 +1,202 @@
+.nav-bar {
+    background: url(images/Layer-1.png);
+    width: 1500px;
+    height: 746px;
+}
+
+.content {
+    width: 1200px;
+}
+
+.nav-logo {
+    width: 151px;
+    height: 77px;
+    position: relative;
+    left: 150px;
+    top: 12px;
+    float: left;
+}
+
+.nav-meni {
+    display: inline-block;
+    position: relative;
+    top: 41px;
+    float: right;
+    right: 150px;
+}
+
+.nav-meni li {
+    display: inline-block;
+    color: #ffffff;
+    font: 400 18px / 50px Roboto;
+    margin-right: 32px;
+}
+
+.content {
+    height: 746px;
+    margin: 0 auto;
+}
+
+.napovednik {
+    position: relative;
+    height: 47px;
+    width: 250px;
+    color: #662d91;
+    font: 100 48px / 50px Roboto;
+    top: 87px;
+    left: 49px;
+}
+
+.slike {
+    position: relative;
+    top: 190px;
+    left: 50px;
+    width: 470px;
+    float: left;
+}
+
+#text-slika1 {
+    color: #662c91;
+    font: 700 30px Roboto;
+    position: relative;
+    left: 100px;
+    top: -235px;
+    width: 368px;
+}
+
+#slider2 {
+    width: 1166px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: lightblue;
+    position: relative;
+    top: 115px;
+}
+
+.img-poje {
+    position: relative;
+    margin-top: -125px;
+}
+
+#text-slika2 {
+    color: #662c91;
+    font: 700 30px Roboto;
+    position: relative;
+    left: 100px;
+    bottom: 235px;
+    width: 360px; 
+}
+
+.zadnja-novica {
+    float: right;
+    position: relative;
+    top: 190px;
+    right: 52px;
+    width: 549px;
+    height: 430px;
+}
+
+#zadnja-text {
+    color: #662d91;
+    font: 100 48px / 50px Roboto;
+    float: left;
+    width: 549px;
+}
+
+#zadnja-datum {
+    color: #000000;
+    font: 400 15px Roboto;
+    margin-top: 26px;
+}
+
+#zadnja-naslov {
+    color: #662c91;
+    font: 700 24px Roboto;
+    margin-bottom: 27px;
+}
+
+#zadnja-text2 {
+    color: #000000;
+    font: 400 15px Roboto;
+}
+
+.footer {
+    height: 280px;
+    margin-top: 206px;
+}
+
+#logo-bottom {
+    position: relative;
+    left: 49px;
+}
+
+.footer-text1 {
+    color: #000000;
+    font: 400 15px Roboto;
+    margin-left: 73px;
+    top: 50px;
+    position: relative;
+    top: 30px;
+}
+
+#footer-text2 {
+    color: #000000;
+    font: 400 12px Roboto;
+    margin-top: 62px;
+    margin-left: 50px;
+}
+
+#footer-links {
+    float: right;
+    color: #662d91;
+    font: 400 12px Roboto;
+    position: relative;
+    right: 53px;
+    bottom: 30px;
+}
+
+#footer-links li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#footer-img {
+    float: right;
+    position: relative;
+    left: 275px;
+    margin-top: 5px;
+}
+
+.slider-content {
+    color: #ffffff;
+    font: 100 48px / 50px Roboto;
+    background-color: rgba(102, 45, 145, 0.7);
+    width: 710px;
+    height: 238px;
+    display: inline-block;
+}
+
+.slider-content span {
+    width: 614px;
+    height: 138px;
+    line-height: 50px;
+    position: relative;
+    top: 45px;
+    left: 45px;
+    color: #ffffff;
+    font: 100 48px / 50px Roboto;
+}
+
+.slider1 {
+    margin-top: 294px;
+}
+
+.preberi {
+    color: #ffffff;
+    font: 400 16px / 50px Roboto;
+    height: 50px;
+    width: 200px;
+    background-color: #662d91;
+    border: none;
+    margin-left: 200px;
+}
