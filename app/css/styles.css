@@ -1,3 +1,27 @@
 .fatty {
   width: 85.71429%;
-}
+  height: 66.66667%; }
+
+#sass1 {
+  color: blue; }
+
+#sass2 {
+  color: blue; }
+
+nav ul {
+  background: #2c3e50;
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+nav li {
+  display: inline-block; }
+
+nav a {
+  color: #ffffff;
+  display: inline-block;
+  padding: 10px 16px;
+  text-decoration: none; }
+
+nav a:hover {
+  background: #16a085; }

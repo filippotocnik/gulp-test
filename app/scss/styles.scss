@@ -1,3 +1,41 @@
+$primary-color: blue;
+$bg-color: #2c3e50;
+$hover-color: #16a085;
+$text-color: #ffffff;
+
 .fatty {
-  width: percentage(6/7);
+    width: percentage(6/7);
+    height: percentage(4/6);
+}
+
+#sass1 {
+  color: $primary-color;
+}
+
+#sass2 {
+  color: $primary-color;
+}
+
+nav {
+  ul {
+      background: $bg-color;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+  }
+
+  li {
+      display: inline-block;
+  }
+
+  a {
+      color: $text-color;
+      display: inline-block;
+      padding: 10px 16px;
+      text-decoration: none;
+  }
+
+  a:hover {
+      background: $hover-color;
+  }
 }
